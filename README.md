@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky Fasha Setiawan</h1>
 <h3 align="center">A business developer enthusiast from Indonesia</h3>
 
+- 🧪 I'm final year student in Chemistry Department Universitas Gadjah Mada
 - 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
